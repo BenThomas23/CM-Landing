@@ -1,0 +1,127 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+    margin: 0px;
+    
+}
+.heading{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 5rem;
+    padding-top:200px;
+    color: white;
+}
+.title{
+    padding: 0px;
+}
+input{
+    width: 2rem;
+}
+.unlis{
+    margin-left: auto;
+}
+.logo{
+    margin: 10px;
+}
+.byline{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.heads{
+    height: 500px;
+    background-image: url("https://www.clubmathematica.com/assets/img/slider/slide2.jpg");
+}
+.Who{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: #1E3163;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+    margin-bottom:14rem;
+}
+.evnthead{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: #1E3163;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+.about{
+    padding: 5rem;
+    border: #1E3163;
+    border-bottom-style:solid;
+    border-width: 5px;
+    margin: 2rem;
+}
+.wecont{
+    font-size: 1rem;
+    color: rgba(18, 69, 128, 0.787);
+}
+.eventslis{
+    padding: 3rem;
+    background-color: #FFDFAF;
+    margin-top: 5rem;
+   
+}
+.eventdeta{
+    font-size: 1.5rem;
+    padding:10px;
+}
+.card-text{
+    padding: 3rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    font-size: 1.05rem;
+}
+.ssi{
+    padding: 7%;
+    font-family: 'Montserrat-Bold', sans-serif;
+    text-align: center;
+    margin-bottom: 10rem;
+}
+.i1{
+    position: absolute;
+    top: 115%;
+    left:5%;
+    
+}
+.i2{
+    position: absolute;
+    top: 115%;
+    left: 33%;
+}
+.i3{
+    position: absolute;
+    top: 115%;
+    left: 65%;
+}
+.icon{
+    padding-bottom: 17px;
+    color:#ef8172;
+    }
+.contact{
+    padding: 5rem;
+}
+.footcard{
+    padding: 5rem;
+}
+.sss{
+    border: #911F27;
+    border-top-style:solid;
+    border-width: 5px;
+}
+#footer{
+    padding: 7% 3% 5%;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 1.6rem;
+    color: #ffffff;
+  }
+.foot{
+    margin: 20px 10px;
+}
+.footerdiv{
+    background-color: #000000;
+    margin-bottom: 2rem;
+}
